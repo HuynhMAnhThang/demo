@@ -25,7 +25,7 @@
 		</tr>
 		<tr>
 			<td>Thắng óc chó</td>
-			<td>8</td>
+			<td>9</td>
 			<td>CNTT</td>
 			<td><a href="student-mgr.htm?lnkEdit">Sửa</a></td>
 
