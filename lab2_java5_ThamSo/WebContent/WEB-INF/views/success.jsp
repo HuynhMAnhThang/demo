@@ -24,7 +24,7 @@
 
 		</tr>
 		<tr>
-			<td>Bùi Minh Nhựa</td>
+			<td>Thắng óc chó</td>
 			<td>8</td>
 			<td>CNTT</td>
 			<td><a href="student-mgr.htm?lnkEdit">Sửa</a></td>
